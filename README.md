@@ -3,15 +3,13 @@
 ## Autores
 
 **ANA PATRICIA GARROS VIEGAS**  
-Matrícula: 2022003512  
-Usuário: garros.ana  
+Matrícula: 2022003512
 E-mail: garros.ana@discente.ufma.br  
 
 ---
 
 **WESLEY DOS SANTOS GATINHO**  
-Matrícula: 20250071367  
-Usuário: wesley.gatinho  
+Matrícula: 20250071367
 E-mail: santosgatinhowesley@gmail.com  
 
 ---
