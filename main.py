@@ -1,3 +1,5 @@
+# Versão enviada para revisão do professor
+
 import random
 from typing import Set, List, Tuple
 
